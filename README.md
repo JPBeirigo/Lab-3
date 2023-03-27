@@ -1,2 +1,2 @@
-# Lab-3
+# labprog3
 Disciplina de Laboratório de Programação III
