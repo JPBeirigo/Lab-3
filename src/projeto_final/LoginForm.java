@@ -130,7 +130,7 @@ public class LoginForm extends javax.swing.JFrame {
                 
         if (email.equals("1") && senha.equals("1")) {
             JOptionPane.showMessageDialog(null, "Bem vindo ao Sistema");
-            abrirFormularioInterno (new PrincipalForm());
+            abrirFormularioInterno (new PrincipalForm1());
         } else {
             JOptionPane.showMessageDialog(null, "Usuário/Senha Inválida");
             
